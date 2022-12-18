@@ -15,7 +15,7 @@ Prepare the list from the each equation and assign in np.array
 end the program
 ## Program:
 import numpy as np
-a = np.array([[2,1,1],[1,1,1],1,-1,2]])
+a = np.array([[1,2,3],[3,6,9]])
 b = np.linalg.matrix_rank(a)
 print(b)
 
